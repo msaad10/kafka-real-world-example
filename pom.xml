@@ -13,6 +13,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafkarealworldexample</name>
 	<description>Demo project for Kafka Real World Example</description>
+	<modules>
+		<module>kafka-producer</module>
+	</modules>
+	<packaging>pom</packaging>
 	<url/>
 	<licenses>
 		<license/>
