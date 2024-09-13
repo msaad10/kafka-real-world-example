@@ -15,7 +15,8 @@
 	<description>Demo project for Kafka Real World Example</description>
 	<modules>
 		<module>kafka-producer</module>
-	</modules>
+        <module>kafka-consumer</module>
+    </modules>
 	<packaging>pom</packaging>
 	<url/>
 	<licenses>
